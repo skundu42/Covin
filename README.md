@@ -67,8 +67,7 @@ yarn dev
 
 * Our project will benefit the Public in numeroues ways but what will be its use after Covid-19 To effectively tackle any more future pandemics,a multipronged approach should be used. As the reach of such an site will be greater it can provide an opportunity to prepare for similar future outbreaks internationally. 
 * Through machine learning and AI methods, automatic  and rapid identification of suspected infections will become more accurate in the future.This site will be able to show pandemic hotspots in the future thus giving awarness to Govt and People where to focus and restrict movment.Addition of these features will provide a more holistic public health approach in response to the situation. 
-* In a Non Pandemic situation this site can be benefiical too Important functionalities that can be integrated into this can be provision of data regarding Treatment Centres(Hospitals,Clinics) specializing in treatment of ailmentslike Heart dieseases, Cancer,Congenital diseases,etc,Availibilty of e
-Availibilty of essential medicines relating  to above ailments.
+* In a Non Pandemic situation this site can be benefiical too Important functionalities that can be integrated into this can be provision of data regarding Treatment Centres(Hospitals,Clinics) specializing in treatment of ailmentslike Heart dieseases, Cancer,Congenital diseases,etc.
 
 ***
 
