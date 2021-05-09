@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/covin/static/js/main.c6fc6c88.chunk.js",
+    "main.js.map": "/covin/static/js/main.c6fc6c88.chunk.js.map",
+    "runtime-main.js": "/covin/static/js/runtime-main.7ffd4438.js",
+    "runtime-main.js.map": "/covin/static/js/runtime-main.7ffd4438.js.map",
+    "static/js/2.671eb776.chunk.js": "/covin/static/js/2.671eb776.chunk.js",
+    "static/js/2.671eb776.chunk.js.map": "/covin/static/js/2.671eb776.chunk.js.map",
+    "index.html": "/covin/index.html",
+    "static/js/2.671eb776.chunk.js.LICENSE.txt": "/covin/static/js/2.671eb776.chunk.js.LICENSE.txt",
+    "static/media/GithubIcon.fe70c363.svg": "/covin/static/media/GithubIcon.fe70c363.svg",
+    "static/media/InstagramIcon.859902e1.svg": "/covin/static/media/InstagramIcon.859902e1.svg",
+    "static/media/LinkedInIcon.e65b0113.svg": "/covin/static/media/LinkedInIcon.e65b0113.svg",
+    "static/media/WebsiteIcon.410d0d3a.svg": "/covin/static/media/WebsiteIcon.410d0d3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ffd4438.js",
+    "static/js/2.671eb776.chunk.js",
+    "static/js/main.c6fc6c88.chunk.js"
+  ]
+}
